@@ -1,0 +1,32 @@
+{
+  "开发指南": [
+    {
+      "name": "giud",
+      "path": "/giud",
+      "desc": "介绍"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "基础组件",
+      "path": "/component",
+      "items": [{
+        "desc": "Layout 布局",
+        "name": "button",
+        "path": "/button"
+      }, {
+        "desc": "color 颜色",
+        "name": "button",
+        "path": "/button"
+      }, {
+        "desc": "Icon 图标",
+        "name": "button",
+        "path": "/button"
+      }, {
+        "desc": "Button 按钮",
+        "name": "button",
+        "path": "/button"
+      }]
+    }
+  ]
+}
